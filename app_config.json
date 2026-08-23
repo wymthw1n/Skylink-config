@@ -1,0 +1,56 @@
+{
+  "ip": "api.skylinkvpn.asia",
+  "api_fallbacks": [
+    "https://d38lce9qpruy18.cloudfront.net/v1"
+  ],
+  "servers": [
+    {
+      "name": "Thailand",
+      "country": "th",
+      "sub_link": "https://myanmar.ooreedoo.click:2096/sub/jfxq8k5rr5k7swfo",
+      "proxy": [
+        "104.21.10.25",
+        "104.21.101.26"
+      ],
+      "dailyGB": 5,
+      "hours": 24
+    },
+    {
+      "name": "Myanmar",
+      "country": "mm",
+      "sub_link": "https://myanmar.ooreedoo.click:2096/sub/jfxq8k5rr5k7swfo",
+      "proxy": [
+        "104.21.10.25",
+        "104.21.102.26"
+      ],
+      "dailyGB": 10,
+      "hours": 24
+    }
+  ],
+  "tabs": {
+    "pricing": true
+  },
+  "links": {
+    "pricing": "https://raw.githubusercontent.com/Tunzen665/Sky/main/pricing.json",
+    "privacy": "https://raw.githubusercontent.com/Tunzen665/Sky/main/privacy.md",
+    "terms": "https://raw.githubusercontent.com/Tunzen665/Sky/main/terms.md",
+    "rate": "https://play.google.com/store/apps/details?id=com.skylink.vpn",
+    "contact": "https://t.me/yourhandle"
+  },
+  "ads": [
+    {
+      "id": "promo-newyear-2026",
+      "version": 1,
+      "images": [
+        "https://raw.githubusercontent.com/Tunzen665/Sky/main/ads/1.jpg",
+        "https://raw.githubusercontent.com/Tunzen665/Sky/main/ads/2.jpg",
+        "https://raw.githubusercontent.com/Tunzen665/Sky/main/ads/3.jpg"
+      ],
+      "targetUrl": "https://t.me/yourhandle",
+      "aspectRatio": 0.667,
+      "cooldownHours": 24,
+      "maxImpressions": 5,
+      "enabled": true
+    }
+  ]
+}
