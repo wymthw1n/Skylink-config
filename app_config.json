@@ -7,25 +7,15 @@
     {
       "name": "Thailand",
       "country": "th",
-      "sub_link": "https://myanmar.ooreedoo.click:2096/sub/jfxq8k5rr5k7swfo",
+      "sub_link": "https://api.ooreedoo.click:2096/sub/vtcl72p1wg1j7okx",
       "proxy": [
         "104.21.10.25",
         "104.21.101.26"
       ],
-      "dailyGB": 5,
-      "hours": 24
-    },
-    {
-      "name": "Myanmar",
-      "country": "mm",
-      "sub_link": "https://myanmar.ooreedoo.click:2096/sub/jfxq8k5rr5k7swfo",
-      "proxy": [
-        "104.21.10.25",
-        "104.21.102.26"
-      ],
       "dailyGB": 10,
       "hours": 24
     }
+    
   ],
   "tabs": {
     "pricing": true
@@ -50,7 +40,7 @@
       "aspectRatio": 0.667,
       "cooldownHours": 24,
       "maxImpressions": 5,
-      "enabled": true
+      "enabled": false
     }
   ]
 }
