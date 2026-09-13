@@ -16,7 +16,6 @@
       "dailyGB": 10,
       "hours": 24
     }
-    
   ],
   "tabs": {
     "pricing": true
@@ -25,16 +24,39 @@
     "pricing": "https://skylinkvpn.asia/#/pricing",
     "privacy": "https://skylinkvpn.asia/#/privacy",
     "terms": "https://skylinkvpn.asia/#/terms",
-    "rate": "https://play.google.com/store/apps/details?id=com.skylink.vpn",
     "contact": "https://t.me/yourhandle"
   },
   "showcase_regions": [
-    { "name": "Singapore", "country": "sg", "tier": "pro" },
-    { "name": "Thailand", "country": "th", "tier": "pro" },
-    { "name": "United States", "country": "us", "tier": "pro" },
-    { "name": "Myanmar", "country": "mm", "tier": "pro_plus" },
-    { "name": "Japan", "country": "jp", "tier": "pro_plus" },
-    { "name": "India", "country": "in", "tier": "pro_plus" }
+    {
+      "name": "Singapore",
+      "country": "sg",
+      "tier": "pro"
+    },
+    {
+      "name": "Thailand",
+      "country": "th",
+      "tier": "pro"
+    },
+    {
+      "name": "United States",
+      "country": "us",
+      "tier": "pro"
+    },
+    {
+      "name": "Myanmar",
+      "country": "mm",
+      "tier": "pro_plus"
+    },
+    {
+      "name": "Japan",
+      "country": "jp",
+      "tier": "pro_plus"
+    },
+    {
+      "name": "India",
+      "country": "in",
+      "tier": "pro_plus"
+    }
   ],
   "ads": [
     {
