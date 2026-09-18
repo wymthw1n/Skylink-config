@@ -1,7 +1,7 @@
 {
-  "ip": "https://d38lce9qpruy18.cloudfront.net/v1",
+  "ip": "api.skylinkvpn.asia",
   "api_fallbacks": [
-    "https://api.skylinkvpn.asia"
+    "https://d38lce9qpruy18.cloudfront.net/v1"
   ],
   "servers": [
     {
